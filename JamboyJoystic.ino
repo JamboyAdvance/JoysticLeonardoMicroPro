@@ -1,7 +1,7 @@
 #include <Joystick.h>
 
-int VRX = A0;    
-int VRY = A1;
+int VRX = A2;    
+int VRY = A3;
 
 int VRX_VAL = 0;
 int VRY_VAL = 0;
